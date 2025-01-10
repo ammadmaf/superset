@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "dockerComposeFilePath": "./docker-compose-non-dev.yml",
+  "dockerfilePath": "./Dockerfile",
   "containerHttpPort": "8088",
   "restartPolicy": {
     "condition": "always"
