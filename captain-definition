@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
-  "dockerComposeFilePath": "./docker-compose-non-dev.yml",
-  "dockerComposeEnvFilePath": "./.env",
+//  "schemaVersion": 2,
+//  "dockerComposeFilePath": "./docker-compose-non-dev.yml",
+//  "dockerComposeEnvFilePath": "./.env",
   "containerHttpPort": "8088",
   "restartPolicy": {
     "condition": "always"
